@@ -1,9 +1,9 @@
-package br.com.zup.Elevador;
 
+/*package br.com.zup.Elevador;
 public class Elevador {
     int andarAtual = 0;
     int totalAndares = 10;
-    double capacidadeElevador = 450;
+    double capacidadeElevador = 10;
     int numeroPessoas = 8;
 
     //Método de construtor
@@ -36,13 +36,15 @@ public class Elevador {
         }
     }
 
-    public void sobe() {
+    //public void sobe(int qtAndares) {
+   // int totalAndares =
+    //}
 
-    }
+    //public void desce() {
 
-    public void desce() {
-
-    }
+    //}
 
 
 }
+
+ */

@@ -1,4 +1,4 @@
-package br.com.zup.Elevador;
+/* package br.com.zup.Elevador;
 
 public class main {
     public static void main(String[] args) {
@@ -14,3 +14,5 @@ public class main {
         objeto.sai(1);
  }
 }
+
+ */
