@@ -1,5 +1,5 @@
 
-/*package br.com.zup.Elevador;
+package br.com.zup.Elevador;
 public class Elevador {
     int andarAtual = 0;
     int totalAndares = 10;
@@ -36,15 +36,24 @@ public class Elevador {
         }
     }
 
-    //public void sobe(int qtAndares) {
-   // int totalAndares =
-    //}
+   public void sobe() {
+       if (andarAtual < totalAndares) {
+           andarAtual++;
+       } else {
+           System.out.printf("Você já está no último andar ");
+       }
+   }
 
-    //public void desce() {
+   public void desce() {
+        if (andarAtual>0){
+            andarAtual--;
+        }else{
+            System.out.println("Você já está no térreo ");
+        }
 
-    //}
+   }
 
 
 }
 
- */
+
